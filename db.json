@@ -1,0 +1,158 @@
+{
+  "superheroes": [
+    {
+      "id": "1",
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": "2",
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": "3",
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "id": "3f85",
+      "name": "blabkabkakaka",
+      "alterEgo": "fffffffffffffffffffff"
+    },
+    {
+      "id": "7bfc",
+      "name": "blabkabkakaka",
+      "alterEgo": "fffffffffffffffffffff"
+    },
+    {
+      "id": "0021",
+      "name": "blabkabkakaka",
+      "alterEgo": "fffffffffffffffffffff"
+    },
+    {
+      "id": "e747",
+      "name": "blabkabkakaka",
+      "alterEgo": "fffffffffffffffffffff"
+    },
+    {
+      "id": "d95c",
+      "name": "blabkabkakaka",
+      "alterEgo": "fffffffffffffffffffff"
+    },
+    {
+      "id": "4eb7",
+      "name": "blabkabkakaka",
+      "alterEgo": "fffffffffffffffffffff"
+    },
+    {
+      "id": "e266",
+      "name": "ghgh",
+      "alterEgo": "hhhhh"
+    },
+    {
+      "id": "5c19",
+      "name": "ghgh",
+      "alterEgo": "hhhhh"
+    },
+    {
+      "id": "e637",
+      "name": "ghgh",
+      "alterEgo": "hhhhh"
+    },
+    {
+      "id": "56bc",
+      "name": "ghgh",
+      "alterEgo": "hhhhh"
+    },
+    {
+      "id": "1e2d",
+      "name": "ghgh",
+      "alterEgo": "hhhhh"
+    },
+    {
+      "id": "e839",
+      "name": "ghgh",
+      "alterEgo": "hhhhh"
+    },
+    {
+      "id": "4135",
+      "name": "ghgh",
+      "alterEgo": "hhhhh"
+    },
+    {
+      "id": "ba56",
+      "name": "ghgh",
+      "alterEgo": "hhhhh"
+    },
+    {
+      "id": "adc5",
+      "name": "ghgh",
+      "alterEgo": "hhhhh"
+    }
+  ],
+  "friends": [
+    {
+      "id": "1",
+      "name": "Chandler Bing"
+    },
+    {
+      "id": "2",
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": "3",
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "vishwas@example.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": "1",
+      "label": "red"
+    },
+    {
+      "id": "2",
+      "label": "blue"
+    },
+    {
+      "id": "3",
+      "label": "green"
+    },
+    {
+      "id": "4",
+      "label": "yellow"
+    },
+    {
+      "id": "5",
+      "label": "black"
+    },
+    {
+      "id": "6",
+      "label": "white"
+    },
+    {
+      "id": "7",
+      "label": "orange"
+    },
+    {
+      "id": "8",
+      "label": "purple"
+    }
+  ]
+}
